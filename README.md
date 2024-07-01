@@ -54,4 +54,7 @@ Player Movement History: Adds temporal context, helping the model make more info
 
 This project includes a compiled JAR file. This JAR file contains the compiled version of the project and can be executed directly.
 
-### To run the JAR file, you need to have [Java](https://www.java.com/en/download/) installed on your system. You can execute the JAR file using the following command:
+### To run the JAR file, you need to have [Java](https://www.java.com/en/download/) installed on your system. You can execute the JAR file using the following command when in the jar files directory: 
+
+```bash
+java -jar ai.jar
