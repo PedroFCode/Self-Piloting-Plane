@@ -49,3 +49,9 @@ Features are meticulously selected based on their relevance to predicting player
 
 Visible Game Area: Provides immediate spatial context for decision-making.
 Player Movement History: Adds temporal context, helping the model make more informed predictions.
+
+## Compiled JAR File
+
+This project includes a compiled JAR file. This JAR file contains the compiled version of the project and can be executed directly.
+
+### To run the JAR file, you need to have [Java](https://www.java.com/en/download/) installed on your system. You can execute the JAR file using the following command:
